@@ -165,9 +165,59 @@ li a:hover {
 }
 
 .desh1{
-
+  position: absolute;
+  margin-top: 2175px;
+  margin-left: 356px;
 }
 
 .desh2{
-  
+  position: absolute;
+  margin-top: 2215px;
+  margin-left: 356px;
+}
+
+.desp{
+  position: absolute;
+  margin-top: 2330px;
+  margin-left: 356px;
+}
+
+.team2{
+ position: absolute;
+ margin-left: 356px;
+ margin-top: 2370px;
+ width: 415.5px;
+ height: 278px;
+}
+
+/* .team1{
+ position: absolute;
+ margin-left: 693px;
+ margin-top: 2370px;
+ width: 322.514px;
+ height: 214.729px;
+}
+
+.team3{
+ position: absolute;
+ margin-left: 1030px;
+ margin-top: 2370px;
+ width: 322.514px;
+ height: 214.729px;
+} */
+
+.des2info{
+  position: absolute;
+  margin-left: 356px;
+  margin-top: 2649px;
+  width: 415.5px;
+  color: #000;
+  background-color: #f1f1f1;
+  height: 245px;
+}
+
+.jhd1{
+  padding-top: 80px;
+  font-size: 15px;
+  font-weight: 1000;
 }
