@@ -8,7 +8,6 @@ body,h1,h2,h3,h4,h5 {
 }
 
 .nav{
-  border: 1px solid blue;
   width: 299px ;
   height: 1000px ;
   background-color: #f44336;
@@ -131,5 +130,44 @@ li a:hover {
   border: 5px solid red;
   margin-left: 356px;
   border-radius: 4px;
-  margin-top: 1740px;
+  margin-top: 1760px;
+}
+
+.servicep1{
+  position: absolute;
+  font-size: 16px;
+  margin-left: 356px;
+  margin-top: 1790px;
+}
+
+.servicep2{
+  position: absolute;
+  font-size: 16px;
+  margin-left: 356px;
+  margin-top: 1830px;
+}
+
+.fourh1{
+  position: absolute;
+  font-size: 48px;
+  color: #f44336;
+  padding-left: 356px;
+  margin-top: 2050px;
+}
+
+.hr3{
+  position: absolute;
+  width: 50px;
+  border: 5px solid red;
+  margin-left: 356px;
+  border-radius: 4px;
+  margin-top: 2140px;
+}
+
+.desh1{
+
+}
+
+.desh2{
+  
 }
