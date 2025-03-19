@@ -190,21 +190,21 @@ li a:hover {
  height: 278px;
 }
 
-/* .team1{
+.team1{
  position: absolute;
- margin-left: 693px;
+ margin-left: 787px;
  margin-top: 2370px;
- width: 322.514px;
- height: 214.729px;
+ width: 415.5px;
+ height: 278px;
 }
 
 .team3{
  position: absolute;
- margin-left: 1030px;
+ margin-left: 1220px;
  margin-top: 2370px;
- width: 322.514px;
- height: 214.729px;
-} */
+ width: 415.5px;
+ height: 278px;
+}
 
 .des2info{
   position: absolute;
@@ -213,11 +213,253 @@ li a:hover {
   width: 415.5px;
   color: #000;
   background-color: #f1f1f1;
-  height: 245px;
+  height: 190px;
 }
 
-.jhd1{
-  padding-top: 80px;
-  font-size: 15px;
-  font-weight: 1000;
+.des2info1{
+  position: absolute;
+  margin-left: 787px;
+  margin-top: 2649px;
+  width: 415.5px;
+  color: #000;
+  background-color: #f1f1f1;
+  height: 190px;
+}
+
+.des2info2{
+  position: absolute;
+  margin-left: 1220px;
+  margin-top: 2649px;
+  width: 415.5px;
+  color: #000;
+  background-color: #f1f1f1;
+  height: 190px;
+}
+
+.johnh1{
+padding-left: 16px;
+margin-top: 10px;
+font-weight: 400px;
+font-size: 24px;
+}
+
+.johnp1{
+  margin-top: 16px;
+  margin-bottom: 16px;
+  padding-left: 16px;
+  color: gray;
+}
+
+.johnp2{
+  padding-left: 16px;
+}
+
+.mrh1{
+  padding-left: 16px;
+  margin-top: 10px;
+  font-weight: 400px;
+  }
+  
+  .mrp1{
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding-left: 16px;
+    color: gray;
+  }
+  
+  .mrp2{
+    padding-left: 16px;
+  }
+
+  .janeh1{
+    padding-left: 16px;
+    margin-top: 10px;
+    font-weight: 400px;
+    }
+    
+    .janep1{
+      margin-top: 16px;
+      margin-bottom: 16px;
+      padding-left: 16px;
+      color: gray;
+    }
+    
+    .janep2{
+      padding-left: 16px;
+    }
+
+    .packh1{
+      position: absolute;
+      font-size: 48px;
+      color: #f44336;
+      padding-left: 356px;
+      margin-top: 2940px;
+    }
+
+    .packhr{
+      position: absolute;
+      width: 50px;
+      border: 5px solid red;
+      border-radius: 4px;
+      margin-left: 356px; 
+      margin-top: 3030px;
+    }
+
+    .packp{
+      position: absolute;
+      font-size: 16px;
+      margin-left: 356px;
+      margin-top: 3060px;
+    }
+  
+  .pricing-container {
+      display: flex;
+      gap: 20px;
+  }
+  
+  .basic{
+    margin-left: 356px;
+    margin-top: 3125px;
+    background-color: #fff;
+    text-align: center;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 630px;
+    position: absolute;
+  }
+
+  .pro{
+    margin-left: 999px;
+    margin-top: 3125px;
+    background-color: #fff;
+    text-align: center;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 630px;
+    position: absolute;
+  }
+
+  .plan-title {
+      font-size: 24px;
+      font-weight: bold;
+      padding: 15px;
+      color: #fff;
+  }
+  
+  .basic .plan-title {
+      background-color: #5a5a5a;
+      height: 70px;
+  }
+  
+  .pro .plan-title {
+      background-color: #f44336;
+      height: 70px;
+  }
+  
+  .plan-features {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      border-top: 1px solid #ddd;
+  }
+  
+  .plan-features li {
+      padding: 12px;
+      border-bottom: 1px solid #ddd;
+  }
+  
+  .plan-price {
+      font-size: 28px;
+      font-weight: bold;
+      padding: 15px 0;
+  }
+  
+  .plan-price span {
+      display: block;
+      font-size: 14px;
+      color: gray;
+  }
+  
+  .signup-button {
+      background-color: #fff;
+      border: 1px solid #ddd;
+      padding: 10px 20px;
+      margin: 15px;
+      cursor: pointer;
+      font-size: 16px;
+      border-radius: 5px;
+  }
+  
+  .basic .signup-button {
+      border: 1px solid #ddd;
+  }
+  
+  .pro .signup-button {
+      background-color: #f44336;
+      color: white;
+      border: none;
+  }
+  
+  .signup-button:hover {
+      opacity: 0.8;
+  }
+  
+.conh1{
+  position: absolute;
+  font-size: 48px;
+  color: #f44336;
+  padding-left: 356px;
+  margin-top: 3740px;
+}
+
+.conhr{
+  position: absolute;
+  width: 50px;
+  border: 5px solid red;
+  border-radius: 4px;
+  margin-left: 356px;
+  margin-top: 3827px; 
+}
+
+.conp{
+  position: absolute;
+  font-size: 16px;
+  margin-left: 356px;
+  margin-top: 3855px; 
+}
+
+.contact-form {
+  position: absolute;
+  margin-left: 356px;
+  margin-top: 3900px;
+  flex-direction: column;
+}
+
+label {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+button {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 15px;
+  font-size: 18px;
+  cursor: pointer;
+  width: 630px;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #d32f2f;
 }
