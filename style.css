@@ -320,23 +320,27 @@ font-size: 24px;
   .basic{
     margin-left: 356px;
     margin-top: 3125px;
-    background-color: #fff;
+    color: #000;
+    background-color: #f1f1f1;
     text-align: center;
     overflow: hidden;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 630px;
     position: absolute;
+    height: 600px;
   }
 
   .pro{
     margin-left: 999px;
     margin-top: 3125px;
-    background-color: #fff;
+    color: #000;
+    background-color: #f1f1f1;
     text-align: center;
     overflow: hidden;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 630px;
     position: absolute;
+    height: 600px;
   }
 
   .plan-title {
@@ -364,7 +368,7 @@ font-size: 24px;
   }
   
   .plan-features li {
-      padding: 12px;
+      padding: 15px;
       border-bottom: 1px solid #ddd;
   }
   
@@ -372,6 +376,7 @@ font-size: 24px;
       font-size: 28px;
       font-weight: bold;
       padding: 15px 0;
+      border-bottom: 1px solid #ddd;
   }
   
   .plan-price span {
@@ -380,24 +385,25 @@ font-size: 24px;
       color: gray;
   }
   
-  .signup-button {
-      background-color: #fff;
-      border: 1px solid #ddd;
+  .basic-signup-button {
+      /* background-color: #fff;
+      border: 1px solid #ddd; */
       padding: 10px 20px;
       margin: 15px;
       cursor: pointer;
       font-size: 16px;
-      border-radius: 5px;
   }
   
   .basic .signup-button {
-      border: 1px solid #ddd;
+    background-color: #FFFFFF;  
+    color: #000000;
   }
   
   .pro .signup-button {
       background-color: #f44336;
       color: white;
       border: none;
+      margin: 12px 24px;
   }
   
   .signup-button:hover {
@@ -456,8 +462,8 @@ button {
   padding: 15px;
   font-size: 18px;
   cursor: pointer;
-  width: 630px;
-  border-radius: 4px;
+  /* width: 100%; */
+
 }
 
 button:hover {
